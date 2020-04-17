@@ -1,11 +1,12 @@
 ## SDAMV2
 ## Beltrán Villaplana Ferrero
 ### Processing
-#### Repte1
-
-*1. Processing - Repte 1 - Part1:
+#### Repte1 - Part1
 
 
+
+
+Script:
 
 
 //*En aquest codi hi ha més comentaris dels habituals, ja que és la primera practica.  
@@ -101,16 +102,10 @@ void draw()
   float dy = yMouse - yObjectFollowMouse;
   yObjectFollowMouse += dy * speed;
   
-  
-  
-  
-  
-  
-  
-  
+    
 }
 
-
+Exemple deostratiu:
 
 
 
