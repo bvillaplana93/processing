@@ -18,4 +18,6 @@ Exemple visual:
 
 Script i comentaris/explicació (part 1):
 
+-Està comentat a l'script però per a solucionar el problema de poder dibuixar en tota la finestra he decidit realitzar un bucle aniuat. 
+
 https://github.com/bvillaplana93/processing/blob/master/Repte1/repte1_part2/repte1_part2/repte1_part2.pde
