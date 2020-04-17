@@ -46,3 +46,25 @@ Exemple visual:
 
 ![Image description](https://github.com/bvillaplana93/processing/blob/master/Repte1/repte1_part3/doc/gifPart3.gif)
 
+
+#### Repte1 - Part4 (Activitat 9)
+
+- Al motor Godot no ha sigut necessari utilitzar cap mena de Script per a fer el moviment de la "pilota" i el comportament dels rebots.
+
+- El moviment de la "pilota" i rebot s'ha fet des del mateix inspector com és mostro en el següent link:
+
+https://github.com/bvillaplana93/processing/blob/master/Repte1/repte1_godot/img/godotPropertiesBall.png
+
+- Per tal d'indicar quan havia de rebotar sí que s'ha hagut d'afegir uns colliders:
+
+https://github.com/bvillaplana93/processing/blob/master/Repte1/repte1_godot/img/godotObjects.png
+
+- A nivell personal he decidit fer un "minijoc" pel que sí que he hagut d'afegir un parell de Scripts:
+
+https://github.com/bvillaplana93/processing/tree/master/Repte1/repte1_godot/scripts
+
+
+Exemple visual:
+
+![Image description](https://github.com/bvillaplana93/processing/blob/master/Repte1/repte1_godot/gd9.gif)
+
