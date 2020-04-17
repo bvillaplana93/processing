@@ -1,5 +1,7 @@
 extends RigidBody2D
 
+#En aquest script comprovem quan l'objecte "pilota" ha tocat un dels colliders per tal que canvi de color.
+
 func _ready():
 	pass 
 	
