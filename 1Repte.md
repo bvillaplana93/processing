@@ -5,7 +5,7 @@
 
 Script i comentaris/explicació:
 
-[https://github.com/bvillaplana93/processing/blob/master/Repte1/repte1_part1/repte1_part1.pde)
+https://github.com/bvillaplana93/processing/blob/master/Repte1/repte1_part1/repte1_part1.pde
 
 Exemple visual:
 
