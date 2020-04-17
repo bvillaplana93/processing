@@ -11,3 +11,14 @@ la posició x e y vagi canviant. Aixó permet generar una IA una mica aleatoria
 
 Classe PVector: Aquesta classe, ens permet realitzar una suma de dos vectors, de forma
 molt optima.
+
+
+#### Repte2 - Part2 (Activitat 2)
+
+Script i comentaris/explicació:
+
+https://github.com/bvillaplana93/processing/blob/master/Repte2/Repte2_part2/Repte2_part2.pde
+
+Exemple visual:
+
+![Image description](https://github.com/bvillaplana93/processing/blob/master/Repte2/Repte2_part2/doc/gifPart2.gif)
