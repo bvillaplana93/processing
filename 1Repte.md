@@ -13,3 +13,9 @@ Exemple visual:
 
 
 #### Repte1 - Part2 (Activitat 7 part 1 i 2)
+
+
+
+Script i comentaris/explicació (part 1):
+
+https://github.com/bvillaplana93/processing/blob/master/Repte1/repte1_part2/repte1_part2/repte1_part2.pde
