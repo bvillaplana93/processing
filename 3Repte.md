@@ -44,5 +44,57 @@ Exemple visual:
 
 
 
+#### Repte3 - Part4 (Activitat 4)
+
+Script i comentaris/explicació:
+
+https://github.com/bvillaplana93/processing/blob/master/Repte3/Repte3_part4/Mover.pde
+https://github.com/bvillaplana93/processing/blob/master/Repte3/Repte3_part4/Repte3_part4.pde
+
+
+Exemple visual:
+
+![Image description](https://github.com/bvillaplana93/processing/blob/master/Repte3/Repte3_part4/doc/part4.gif)
+
+
+
+#### Repte3 - Part5 (Activitat 5)
+
+Script i comentaris/explicació:
+
+https://github.com/bvillaplana93/processing/blob/master/Repte3/Repte3_part5/Mover.pde
+https://github.com/bvillaplana93/processing/blob/master/Repte3/Repte3_part5/Repte3_part5.pde
+
+
+Exemple visual:
+
+![Image description](https://github.com/bvillaplana93/processing/blob/master/Repte3/Repte3_part5/doc/part5.gif)
+
+
+
+
+#### Repte3 - Part6 (Activitat 6)
+
+Script i comentaris/explicació:
+
+https://github.com/bvillaplana93/processing/blob/master/Repte3/Repte3_part6/Repte3_part6.pde
+https://github.com/bvillaplana93/processing/blob/master/Repte3/Repte3_part6/Clodus.pde
+https://github.com/bvillaplana93/processing/blob/master/Repte3/Repte3_part6/Effect.pde
+https://github.com/bvillaplana93/processing/blob/master/Repte3/Repte3_part6/Storm.pde
+https://github.com/bvillaplana93/processing/blob/master/Repte3/Repte3_part6/Walker.pde
+https://github.com/bvillaplana93/processing/blob/master/Repte3/Repte3_part6/Mover.pde
+
+
+Exemple visual:
+
+![Image description](https://github.com/bvillaplana93/processing/blob/master/Repte3/Repte3_part6/doc/part6.gif)
+
+
+
+
+
+
+
+
 
 
