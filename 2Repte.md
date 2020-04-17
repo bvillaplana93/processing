@@ -22,3 +22,40 @@ https://github.com/bvillaplana93/processing/blob/master/Repte2/Repte2_part2/Rept
 Exemple visual:
 
 ![Image description](https://github.com/bvillaplana93/processing/blob/master/Repte2/Repte2_part2/doc/gifPart2.gif)
+
+
+#### Repte2 - Part3 (Activitat 3)
+
+Script i comentaris/explicació:
+
+https://github.com/bvillaplana93/processing/blob/master/Repte2/Repte2_part3/Repte2_part3.pde
+
+Exemple visual:
+
+![Image description](https://github.com/bvillaplana93/processing/blob/master/Repte2/Repte2_part3/doc/gif3.gif)
+
+
+#### Repte2 - Part4 (Activitat 4)
+
+Script i comentaris/explicació:
+
+https://github.com/bvillaplana93/processing/blob/master/Repte2/Repte2_part4/Repte2_part4.pde
+
+Exemple visual:
+
+![Image description](https://github.com/bvillaplana93/processing/blob/master/Repte2/Repte2_part4/doc/gif4.gif)
+
+
+#### Repte2 - Part5 (Activitat 5)
+
+Script i comentaris/explicació:
+
+https://github.com/bvillaplana93/processing/blob/master/Repte2/Repte2_part5/Character.pde
+https://github.com/bvillaplana93/processing/blob/master/Repte2/Repte2_part5/Repte2_part5.pde
+https://github.com/bvillaplana93/processing/blob/master/Repte2/Repte2_part5/Walker.pde
+
+Exemple visual:
+
+https://github.com/bvillaplana93/processing/blob/master/Repte2/Repte2_part5/doc/part5.gif
+
+![Image description](https://github.com/bvillaplana93/processing/blob/master/Repte2/Repte2_part4/doc/gif4.gif)
