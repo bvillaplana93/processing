@@ -3,9 +3,9 @@
 ### Processing
 #### Repte1
 
-*1. Processing - Repte 1
+**1. Processing - Repte 1 - Part1:
 
-*Part1:
+
 
 
 //*En aquest codi hi ha més comentaris dels habituals, ja que és la primera practica.  
