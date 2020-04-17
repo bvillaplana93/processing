@@ -58,4 +58,4 @@ Exemple visual:
 
 https://github.com/bvillaplana93/processing/blob/master/Repte2/Repte2_part5/doc/part5.gif
 
-![Image description](https://github.com/bvillaplana93/processing/blob/master/Repte2/Repte2_part4/doc/gif4.gif)
+![Image description](https://github.com/bvillaplana93/processing/blob/master/Repte2/Repte2_part5/doc/part5.gif)
