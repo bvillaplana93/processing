@@ -35,3 +35,14 @@ Exemple visual (part 2):
 
 ![Image description](https://github.com/bvillaplana93/processing/blob/master/Repte1/repte1_part2/doc/img.PNG)
 
+
+#### Repte1 - Part3 (Activitat 8)
+
+Script i comentaris/explicació:
+
+https://github.com/bvillaplana93/processing/blob/master/Repte1/repte1_part3/repte1_part3/repte1_part3.pde
+
+Exemple visual:
+
+![Image description](https://github.com/bvillaplana93/processing/blob/master/Repte1/repte1_part3/doc/gifPart3.gif)
+
