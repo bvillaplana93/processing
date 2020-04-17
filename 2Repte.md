@@ -59,3 +59,8 @@ Exemple visual:
 https://github.com/bvillaplana93/processing/blob/master/Repte2/Repte2_part5/doc/part5.gif
 
 ![Image description](https://github.com/bvillaplana93/processing/blob/master/Repte2/Repte2_part5/doc/part5.gif)
+
+
+#### Repte2 - Part5 (Activitat 6)
+
+En Godot, tant les escenes com els scripts poden ser l'equivalent a les classes en un llenguatge de programació orientat a objectes. La principal diferència és que les escenes són codi declaratiu, mentre que els scripts poden contenir codi imperatiu.
